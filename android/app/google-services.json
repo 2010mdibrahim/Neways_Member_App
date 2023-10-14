@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541176763916",
+    "project_id": "super-hostel-bd",
+    "storage_bucket": "super-hostel-bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541176763916:android:26a354c87e1b5fcc598029",
+        "android_client_info": {
+          "package_name": "com.superhostelbd.member"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541176763916-q8h4ipad7l05v97lbegadu4hnkipovou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD38T_mZisiLbGjH-ToxchgGUXHD-8rDFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541176763916-q8h4ipad7l05v97lbegadu4hnkipovou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
